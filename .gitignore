@@ -1,0 +1,11 @@
+# Raw Kaggle data (too large, link to it in the README instead)
+data/DataCoSupplyChainDataset.csv
+data/clean_orders.csv
+
+# Python and Jupyter clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/

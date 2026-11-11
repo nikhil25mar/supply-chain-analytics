@@ -1,0 +1,5 @@
+ship_mode,orders,sales_$,late_%,avg_promised_days,avg_actual_days,std_actual_days,avg_delay_when_late,on_time_%
+First Class,9602.0,5408068.56,100.0,1.0,2.0,0.0,1.0,0.0
+Same Day,3407.0,1854872.21,47.93,0.0,0.48,0.5,1.0,52.07
+Second Class,12256.0,6860661.56,79.83,2.0,3.99,1.41,2.5,20.17
+Standard Class,37632.0,21090827.32,39.77,4.0,3.99,1.42,1.51,60.23

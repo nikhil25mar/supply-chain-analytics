@@ -1,0 +1,6 @@
+safety_stock_vs_current,avg_stockout_days_%,avg_inventory_$
+100%,0.03,132270
+80%,0.1,121519
+60%,0.35,110488
+50%,0.58,105244
+40%,0.95,99919
